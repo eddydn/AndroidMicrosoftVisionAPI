@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="vision-1.0.374">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.374/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.374/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.374/jars/libs/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

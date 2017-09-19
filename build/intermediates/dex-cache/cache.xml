@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_442f0b41452fd256e378e571180e0a04a342701a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\reale\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_cf70b880ecd209d684e07e38fd516e4ec0486edc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_c1605c8b144b523add539d87882d7751afe5e4d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_507367df6428860c0bb97458eb8d7284c1c94b7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4947ccdf6c0fc1247767f1e8ddbc0346ba0f6d05">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9eb84b43ceabd61f6ee33c94a0228e58dda459a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_70809289df04b25888f0ce9e65872c6593fa1852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae3d0e0605a6f1fef8b3475d7b3c1a649040febe">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e689db41ff051dcf6fb1503181567fbfb249d113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_0379cb27a88f38999735106e24ac6c6431f96de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_67231d2eb7444891b0310b4a714889ec4b4e2024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\1.0.374\jars\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_69f5fac453e10fd5c47d5d764f333912b0a5368d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_c2686b1d32446082f04aec2ec5925b09c5317d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\1.0.374\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9106258dc9ec0ed3b24aea758c35a3839cad73d">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-vision-1.0.374_4657b34089f471d18c8051cb4c230dea59f634c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_f20a58b42d0384606dc287a23e9badc84b29f77e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_fd9b8aac48f5ce98c78b467155ca2d6f37b9f640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\AndroidExamples\AndroidVisionAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_ac047b62b7ab135bfbf246532ec1e7737fc95be0\classes.dex" />
+    </item>
+
+</items>
